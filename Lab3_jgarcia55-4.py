@@ -1,7 +1,7 @@
 # Jisselle Garcia
 # Lab3-4
 # 01/28/23
-# This program removes the list item binoculars.
+# This program uses lists, append, replacing using specified index with a list, and removing from a list.
 
 camping_list = [
     "tent",
